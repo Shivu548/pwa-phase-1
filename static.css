@@ -1,0 +1,20 @@
+body{
+  background-color: green;
+}
+.main{
+  display: flex;
+}
+.right{
+  background: red;
+  text-align: center;
+  flex:auto;
+  justify-content: space-around;
+  width: 69%;
+  box-shadow: 5px 5px 5px black;
+  border: 2px dotted black;
+}
+.left{
+  background: skyblue;
+  text-align: center;
+  width:25%;
+}

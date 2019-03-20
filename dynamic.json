@@ -1,0 +1,57 @@
+{
+	"basic": {
+		"img": "images/download (1).jpg",
+		"name": "shiva kumar",
+		"email": "shivakumar@123"
+
+	},
+	"career": {
+		"info": " i want to seak to a good position so that i can explore my things"
+
+	},
+	"education": [{
+			"sno": "1",
+			"degree": "btech",
+			"institute": "abc",
+			"per": "2018"
+
+		},
+		{
+			"sno": "2",
+			"degree": "inter",
+			"institute": "ssvn",
+			"per": "2012"
+
+		},
+		{
+			"sno": "3",
+			"degree": "tenth",
+			"institute": "svvm",
+			"per": "2015"
+		}
+	],
+	"skills": [
+
+		{
+			"info": "c"
+		},
+		{
+			"info": "c++"
+		},
+		{
+			"info": "java"
+		},
+		{
+			"info": "oracle"
+		},
+		{
+			"info": "python"
+		},
+		{
+			"info": ".net"
+		}
+
+
+
+	]
+}
